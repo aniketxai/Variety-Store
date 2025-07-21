@@ -4,6 +4,11 @@ Updated Version --- No need mysql
 
 This is a basic inventory project created using Java and NetBeans IDE during Class 9. The project was made by following a YouTube tutorial and is part of my early learning journey in Java development.
 
+## 🎥 YouTube Tutorial
+
+Thanks to the tutorial by [aniketXai]  
+👉 [YouTube Tutorial: Java Inventory System]([https://www.youtube.com/watch?v=Ez8F0nW6S-w](https://youtu.be/6tKeYbcfSwc))
+
 ## 📥 Download the Project
 
 👉 [Download ZIP from Google Drive](https://drive.google.com/file/d/1rsxslbyIOqjYidCevQc36aNUWGLVpG2z/view?usp=sharing)
