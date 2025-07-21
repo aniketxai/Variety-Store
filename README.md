@@ -7,7 +7,7 @@ This is a basic inventory project created using Java and NetBeans IDE during Cla
 ## 🎥 YouTube Tutorial
 
 Thanks to the tutorial by [aniketXai]  
-👉 [YouTube Tutorial: Java Inventory System]([https://www.youtube.com/watch?v=Ez8F0nW6S-w](https://youtu.be/6tKeYbcfSwc))
+👉 [YouTube Tutorial: Java Inventory System](https://youtu.be/6tKeYbcfSwc)
 
 ## 📥 Download the Project
 
